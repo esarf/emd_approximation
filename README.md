@@ -7,5 +7,5 @@ The notebook contains a detailed study of the paper and personal intepretations.
 The notebook might not display correctly because the file is too large. You can use Jupyter nbviewer : https://nbviewer.jupyter.org
 
 ## Work support
-Link to paper : https://www.researchgate.net/publication/319075485_A_Parallel_Method_for_Earth_Mover%27s_Distance
+Link to paper : https://www.researchgate.net/publication/319075485_A_Parallel_Method_for_Earth_Mover%27s_Distance  
 Link to the authors' Matlab implementation : https://github.com/liujl11git/multilevelOT/tree/master/util
