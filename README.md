@@ -1,4 +1,4 @@
-# Approximation of the EMD
+# Approximation of the Earth Mover's Distance
 Python implementation of the paper of Wuchen Li, Ernest K. Ryu, Stanley Osher, Wotao Yin  : *A Parallel Method for Earth Mover's Distance*.  
 Realized with Ryan Boustany at Ensae Paris.
 
