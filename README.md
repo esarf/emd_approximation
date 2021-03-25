@@ -3,7 +3,7 @@ Python implementation of the paper of Wuchen Li, Ernest K. Ryu, Stanley Osher, W
 Realized with Ryan Boustany at Ensae Paris.  
 
 ## Notebook
-The notebook contains a detailed study of the paper and personal intepretations. It also contains some simulations, on the cat images that the authors used for their article.
+The notebook contains a detailed study of the paper and personal intepretations. It also contains some simulations, on the cat images that the authors used for their article.  
 The notebook might not display correctly because the file is too large. You can use Jupyter nbviewer : https://nbviewer.jupyter.org
 
 ## Work support
