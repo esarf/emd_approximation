@@ -6,6 +6,9 @@ Realized with [Ryan Boustany](https://github.com/ryanboustany) at Ensae Paris.
 The notebook contains a detailed study of the paper and personal intepretations. It also contains some simulations, on the cat images that the authors used for their article.  
 The notebook might not display correctly because the file is too large. You can use Jupyter nbviewer : https://nbviewer.jupyter.org
 
+## Report
+The file report.pdf is our paper with our results and problem explanation/interpretation. This paper has no ambition to replace the original one of Li et al.; we simply try to propose our own illustrations of the problem.
+
 ## Work support
 Link to paper 1 : https://arxiv.org/abs/1609.07092  
 Link to paper 2 : https://www.researchgate.net/publication/319075485_A_Parallel_Method_for_Earth_Mover%27s_Distance  
