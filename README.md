@@ -1,6 +1,8 @@
 # Approximation of the Earth Mover's Distance
 Python implementation of the paper of Wuchen Li, Ernest K. Ryu, Stanley Osher, Wotao Yin  : *A Parallel Method for Earth Mover's Distance*, also based on the preprint version : *A fast algorithm for Earth Mover's Distance based on optimal transport and L1 type Regularization* by Wuchen Li, Stanley Osher, Wilfrid Gangbo.    
-Realized with [Ryan Boustany](https://github.com/ryanboustany) at Ensae Paris. 
+Project done as part of the course Optimal Transport: theory, computations, statistics and ML applications taught by Marco Cuturi (Google Brain).
+
+**Authors**: [Ryan Boustany](https://github.com/ryanboustany), Emma Sarfati
 
 ## Notebook
 The notebook contains a detailed study of the paper and personal intepretations. It also contains some simulations, on the cat images that the authors used for their article.  
