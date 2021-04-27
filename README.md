@@ -9,9 +9,12 @@ The notebook contains a detailed study of the paper and personal intepretations.
 The notebook might not display correctly because the file is too large. You can use Jupyter nbviewer : https://nbviewer.jupyter.org
 
 ## Report
-The file emd_report.pdf is our paper with our results and problem explanation/interpretation. This paper has no ambition to replace the original one of Li et al.; we simply try to propose our own illustrations of the problem.
+The file `emd_report.pdf` is our paper with our results and problem explanation/interpretation. This paper has no ambition to replace the original one of Li et al.; we simply try to propose our own illustrations of the problem.
 
 ## Work support
 Link to paper 1 : https://arxiv.org/abs/1609.07092  
 Link to paper 2 : https://www.researchgate.net/publication/319075485_A_Parallel_Method_for_Earth_Mover%27s_Distance  
 Link to the authors' Matlab implementation : https://github.com/liujl11git/multilevelOT/tree/master/util
+
+## Google Colab
+If you wich to run the notebook, you can either git clone this repo or create a copy of the Colab link of the notebook: https://colab.research.google.com/drive/1Qmc88kF_qatGaHQ8lS6yxXthQYK5LBtx?usp=sharing
