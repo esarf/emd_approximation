@@ -17,5 +17,5 @@ Link to paper 2 : https://www.researchgate.net/publication/319075485_A_Parallel_
 Link to the authors' Matlab implementation : https://github.com/liujl11git/multilevelOT/tree/master/util
 
 ## Google Colab
-If you wich to run the notebook, you can either git clone this repo or create a copy of the Colab link of the notebook: https://colab.research.google.com/drive/1Qmc88kF_qatGaHQ8lS6yxXthQYK5LBtx?usp=sharing. 
+If you wish to run the notebook, you can either git clone this repo or create a copy of the Colab link of the notebook: https://colab.research.google.com/drive/1Qmc88kF_qatGaHQ8lS6yxXthQYK5LBtx?usp=sharing. 
 Note that if you use Colab, you will need first to download the data in the /content folder, and change the paths in the notebook.
